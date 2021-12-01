@@ -1,2 +1,2 @@
 # MachineLearningCourse
-This repository contains my graduate course of machine learning
+This repository contains homework materials of my machine learning course
